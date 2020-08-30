@@ -1,1 +1,3 @@
-Estudando o GIT de forma local.
+Estudando o GIT pelo curso do Bonieky de forma local.
+
+Adicionei uma linha
