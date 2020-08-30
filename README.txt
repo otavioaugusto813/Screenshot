@@ -1,5 +1,7 @@
-Programa de screenshots automáticos em Python. Você escolhe o nome do arquivo, onde deseja salvá-lo e o intervalo de tempo entre os screenshots e o programa irá executar para você.
+Programa de screenshots automáticos em Python. Primeira tentativa de trabalhar com GUI. 
 
-Como resultado do programa, o clipe da banda Sadboots foi feito.
+Você escolhe o nome do arquivo, onde deseja salvá-lo, o intervalo de tempo entre os screenshots e o programa irá executar para você.
+
+Como resultado do programa, foi realizado o clipe da banda SadBoots em hyperlapse.
 
 Veja em: <https://www.youtube.com/watch?v=93d-orhTLsc>
