@@ -76,7 +76,6 @@ class PrintScreen:
         self.mostrar_apagar = tk.Label(app5, text='')
         self.mostrar_apagar.grid()
         app5.grid()
-
         self.root.mainloop()
 
     def arquivo(self, evento):
